@@ -1,11 +1,26 @@
 {
-  "name": "email-verify",
-  "version": "1.0.0",
-  "description": "",
+  "name": "email-verifier-sam",
+  "version": "1.0.9",
+  "description": "Most reliable npm package for verifying emails using API Email Verifier",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "email",
+    "verifier",
+    "api",
+    "rapidapi",
+    "email validator",
+    "email verification",
+    "email validation",
+    "verify email",
+    "email validate",
+    "email exist"
+  ],
   "author": "Samir Merrach",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
 }
